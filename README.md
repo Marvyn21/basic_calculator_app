@@ -18,4 +18,4 @@ Licensing
 This application is open-source and available under the MIT license.
 
 Author
-Marvyn Rogony
+Marvyn
